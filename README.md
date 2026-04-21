@@ -67,25 +67,23 @@ Based on the current UI:
 
 ## Screenshots
 
-Add your UI screenshots here once you place them in the repo (recommended: a `screenshots/` folder in the root).
+Place your screenshots in the root `screenshots/` folder using these exact filenames:
 
-Suggested captions:
+- `home.png`
+- `signup.png`
+- `restaurants.png`
+- `cart.png`
+- `checkout.png`
+- `dashboard.png`
 
-- Home (Hero + Top Meals)
-- Signup (User/Admin)
-- Restaurants (Search + Filters)
-- Cart + Checkout
-- Dashboard
+Then GitHub will render them here:
 
-Example markdown (replace file names with your real ones):
-
-```md
 ![Home](screenshots/home.png)
+![Signup](screenshots/signup.png)
 ![Restaurants](screenshots/restaurants.png)
 ![Cart](screenshots/cart.png)
 ![Checkout](screenshots/checkout.png)
 ![Dashboard](screenshots/dashboard.png)
-```
 
 ---
 
