@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Frontend
+food-ordering-frontend/node_modules/
+food-ordering-frontend/dist/
+food-ordering-frontend/.env
+food-ordering-frontend/.env.*
+
+# Backend (Maven)
+Online-Food-Ordering/target/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / temp
+*.swp
+*~
